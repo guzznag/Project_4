@@ -1,0 +1,751 @@
+Year,Quarter,Month,HHS_Region,Pathogen,Number_of_isolates,Past_two_years_average
+2023,1,1,Region 1 - Boston,Campylobacter,26,16.5
+2023,1,2,Region 1 - Boston,Campylobacter,12,10
+2023,1,3,Region 1 - Boston,Campylobacter,14,14
+2023,2,4,Region 1 - Boston,Campylobacter,29,10.5
+2023,2,5,Region 1 - Boston,Campylobacter,22,14.5
+2023,2,6,Region 1 - Boston,Campylobacter,50,45
+2023,3,7,Region 1 - Boston,Campylobacter,59,48
+2023,3,8,Region 1 - Boston,Campylobacter,68,36
+2023,3,9,Region 1 - Boston,Campylobacter,36,25
+2023,4,10,Region 1 - Boston,Campylobacter,24,33
+2023,4,11,Region 1 - Boston,Campylobacter,31,16.5
+2023,4,12,Region 1 - Boston,Campylobacter,22,17.5
+2024,1,1,Region 1 - Boston,Campylobacter,17,15.5
+2024,1,2,Region 1 - Boston,Campylobacter,17,10.5
+2024,1,3,Region 1 - Boston,Campylobacter,0,14.5
+2023,1,1,Region 1 - Boston,STEC,16,7
+2023,1,2,Region 1 - Boston,STEC,9,8
+2023,1,3,Region 1 - Boston,STEC,12,12.5
+2023,2,4,Region 1 - Boston,STEC,17,18
+2023,2,5,Region 1 - Boston,STEC,19,16
+2023,2,6,Region 1 - Boston,STEC,18,23.5
+2023,3,7,Region 1 - Boston,STEC,35,27
+2023,3,8,Region 1 - Boston,STEC,30,18
+2023,3,9,Region 1 - Boston,STEC,14,18
+2023,4,10,Region 1 - Boston,STEC,19,16.5
+2023,4,11,Region 1 - Boston,STEC,7,18
+2023,4,12,Region 1 - Boston,STEC,10,8
+2024,1,1,Region 1 - Boston,STEC,11,11
+2024,1,2,Region 1 - Boston,STEC,10,10.5
+2024,1,3,Region 1 - Boston,STEC,0,10.5
+2023,1,1,Region 1 - Boston,Salmonella,107,89.5
+2023,1,2,Region 1 - Boston,Salmonella,103,67
+2023,1,3,Region 1 - Boston,Salmonella,84,87
+2023,2,4,Region 1 - Boston,Salmonella,146,124.5
+2023,2,5,Region 1 - Boston,Salmonella,270,149.5
+2023,2,6,Region 1 - Boston,Salmonella,231,183
+2023,3,7,Region 1 - Boston,Salmonella,261,279
+2023,3,8,Region 1 - Boston,Salmonella,275,263.5
+2023,3,9,Region 1 - Boston,Salmonella,223,228.5
+2023,4,10,Region 1 - Boston,Salmonella,195,152
+2023,4,11,Region 1 - Boston,Salmonella,136,119
+2023,4,12,Region 1 - Boston,Salmonella,121,91.5
+2024,1,1,Region 1 - Boston,Salmonella,127,95.5
+2024,1,2,Region 1 - Boston,Salmonella,71,88.5
+2024,1,3,Region 1 - Boston,Salmonella,0,91
+2023,1,1,Region 1 - Boston,Shigella,21,7
+2023,1,2,Region 1 - Boston,Shigella,19,13.5
+2023,1,3,Region 1 - Boston,Shigella,24,15.5
+2023,2,4,Region 1 - Boston,Shigella,34,16
+2023,2,5,Region 1 - Boston,Shigella,29,10
+2023,2,6,Region 1 - Boston,Shigella,33,17
+2023,3,7,Region 1 - Boston,Shigella,40,21
+2023,3,8,Region 1 - Boston,Shigella,30,26
+2023,3,9,Region 1 - Boston,Shigella,29,14.5
+2023,4,10,Region 1 - Boston,Shigella,19,31.5
+2023,4,11,Region 1 - Boston,Shigella,22,30.5
+2023,4,12,Region 1 - Boston,Shigella,16,21.5
+2024,1,1,Region 1 - Boston,Shigella,37,15
+2024,1,2,Region 1 - Boston,Shigella,27,17.5
+2024,1,3,Region 1 - Boston,Shigella,0,22
+2023,1,1,Region 1 - Boston,Vibrio,1,0
+2023,1,2,Region 1 - Boston,Vibrio,1,0
+2023,1,3,Region 1 - Boston,Vibrio,2,0
+2023,2,4,Region 1 - Boston,Vibrio,1,0
+2023,2,5,Region 1 - Boston,Vibrio,4,0
+2023,2,6,Region 1 - Boston,Vibrio,2,1.5
+2023,3,7,Region 1 - Boston,Vibrio,23,20.5
+2023,3,8,Region 1 - Boston,Vibrio,24,23
+2023,3,9,Region 1 - Boston,Vibrio,12,14.5
+2023,4,10,Region 1 - Boston,Vibrio,3,8.5
+2023,4,11,Region 1 - Boston,Vibrio,2,2
+2023,4,12,Region 1 - Boston,Vibrio,2,0
+2024,1,1,Region 1 - Boston,Vibrio,0,0.5
+2024,1,2,Region 1 - Boston,Vibrio,0,1
+2024,1,3,Region 1 - Boston,Vibrio,0,3.5
+2023,1,1,Region 10 - Seattle,Campylobacter,6,3.5
+2023,1,2,Region 10 - Seattle,Campylobacter,5,8
+2023,1,3,Region 10 - Seattle,Campylobacter,6,5.5
+2023,2,4,Region 10 - Seattle,Campylobacter,7,7
+2023,2,5,Region 10 - Seattle,Campylobacter,8,7.5
+2023,2,6,Region 10 - Seattle,Campylobacter,11,12
+2023,3,7,Region 10 - Seattle,Campylobacter,11,11.5
+2023,3,8,Region 10 - Seattle,Campylobacter,29,12
+2023,3,9,Region 10 - Seattle,Campylobacter,25,16.5
+2023,4,10,Region 10 - Seattle,Campylobacter,19,11
+2023,4,11,Region 10 - Seattle,Campylobacter,18,8.5
+2023,4,12,Region 10 - Seattle,Campylobacter,7,6
+2024,1,1,Region 10 - Seattle,Campylobacter,6,3.5
+2024,1,2,Region 10 - Seattle,Campylobacter,4,5
+2024,1,3,Region 10 - Seattle,Campylobacter,0,5.5
+2023,1,1,Region 10 - Seattle,STEC,31,21.5
+2023,1,2,Region 10 - Seattle,STEC,33,16
+2023,1,3,Region 10 - Seattle,STEC,35,26.5
+2023,2,4,Region 10 - Seattle,STEC,43,43
+2023,2,5,Region 10 - Seattle,STEC,52,53
+2023,2,6,Region 10 - Seattle,STEC,64,59
+2023,3,7,Region 10 - Seattle,STEC,68,93.5
+2023,3,8,Region 10 - Seattle,STEC,94,90.5
+2023,3,9,Region 10 - Seattle,STEC,77,75
+2023,4,10,Region 10 - Seattle,STEC,63,57.5
+2023,4,11,Region 10 - Seattle,STEC,43,34.5
+2023,4,12,Region 10 - Seattle,STEC,40,25
+2024,1,1,Region 10 - Seattle,STEC,20,25.5
+2024,1,2,Region 10 - Seattle,STEC,21,23
+2024,1,3,Region 10 - Seattle,STEC,0,33
+2023,1,1,Region 10 - Seattle,Salmonella,103,63.5
+2023,1,2,Region 10 - Seattle,Salmonella,67,55
+2023,1,3,Region 10 - Seattle,Salmonella,120,76
+2023,2,4,Region 10 - Seattle,Salmonella,106,92
+2023,2,5,Region 10 - Seattle,Salmonella,158,104
+2023,2,6,Region 10 - Seattle,Salmonella,128,110
+2023,3,7,Region 10 - Seattle,Salmonella,177,130.5
+2023,3,8,Region 10 - Seattle,Salmonella,255,131
+2023,3,9,Region 10 - Seattle,Salmonella,163,126
+2023,4,10,Region 10 - Seattle,Salmonella,132,91.5
+2023,4,11,Region 10 - Seattle,Salmonella,120,94
+2023,4,12,Region 10 - Seattle,Salmonella,129,76
+2024,1,1,Region 10 - Seattle,Salmonella,118,88
+2024,1,2,Region 10 - Seattle,Salmonella,88,63.5
+2024,1,3,Region 10 - Seattle,Salmonella,2,106
+2023,1,1,Region 10 - Seattle,Shigella,67,17
+2023,1,2,Region 10 - Seattle,Shigella,20,18
+2023,1,3,Region 10 - Seattle,Shigella,13,16.5
+2023,2,4,Region 10 - Seattle,Shigella,10,11
+2023,2,5,Region 10 - Seattle,Shigella,7,13
+2023,2,6,Region 10 - Seattle,Shigella,6,10
+2023,3,7,Region 10 - Seattle,Shigella,13,10.5
+2023,3,8,Region 10 - Seattle,Shigella,25,9
+2023,3,9,Region 10 - Seattle,Shigella,18,8.5
+2023,4,10,Region 10 - Seattle,Shigella,16,7.5
+2023,4,11,Region 10 - Seattle,Shigella,54,14.5
+2023,4,12,Region 10 - Seattle,Shigella,77,7
+2024,1,1,Region 10 - Seattle,Shigella,41,34.5
+2024,1,2,Region 10 - Seattle,Shigella,13,12.5
+2024,1,3,Region 10 - Seattle,Shigella,0,11.5
+2023,1,1,Region 10 - Seattle,Vibrio,1,1
+2023,1,2,Region 10 - Seattle,Vibrio,2,0
+2023,1,3,Region 10 - Seattle,Vibrio,0,0
+2023,2,4,Region 10 - Seattle,Vibrio,0,2.5
+2023,2,5,Region 10 - Seattle,Vibrio,4,0
+2023,2,6,Region 10 - Seattle,Vibrio,4,2.5
+2023,3,7,Region 10 - Seattle,Vibrio,3,13.5
+2023,3,8,Region 10 - Seattle,Vibrio,18,19.5
+2023,3,9,Region 10 - Seattle,Vibrio,6,5
+2023,4,10,Region 10 - Seattle,Vibrio,1,3
+2023,4,11,Region 10 - Seattle,Vibrio,0,0.5
+2023,4,12,Region 10 - Seattle,Vibrio,1,2.5
+2024,1,1,Region 10 - Seattle,Vibrio,1,1
+2024,1,2,Region 10 - Seattle,Vibrio,0,1
+2024,1,3,Region 10 - Seattle,Vibrio,0,0
+2023,1,1,Region 2 - New York,Campylobacter,11,6.5
+2023,1,2,Region 2 - New York,Campylobacter,8,4.5
+2023,1,3,Region 2 - New York,Campylobacter,8,8
+2023,2,4,Region 2 - New York,Campylobacter,2,2.5
+2023,2,5,Region 2 - New York,Campylobacter,1,5.5
+2023,2,6,Region 2 - New York,Campylobacter,0,12.5
+2023,3,7,Region 2 - New York,Campylobacter,2,9.5
+2023,3,8,Region 2 - New York,Campylobacter,0,9
+2023,3,9,Region 2 - New York,Campylobacter,2,6.5
+2023,4,10,Region 2 - New York,Campylobacter,3,10
+2023,4,11,Region 2 - New York,Campylobacter,3,6
+2023,4,12,Region 2 - New York,Campylobacter,3,4.5
+2024,1,1,Region 2 - New York,Campylobacter,3,12
+2024,1,2,Region 2 - New York,Campylobacter,0,8.5
+2024,1,3,Region 2 - New York,Campylobacter,0,12
+2023,1,1,Region 2 - New York,STEC,46,28
+2023,1,2,Region 2 - New York,STEC,41,31
+2023,1,3,Region 2 - New York,STEC,52,43.5
+2023,2,4,Region 2 - New York,STEC,58,45
+2023,2,5,Region 2 - New York,STEC,51,56.5
+2023,2,6,Region 2 - New York,STEC,76,53.5
+2023,3,7,Region 2 - New York,STEC,79,83
+2023,3,8,Region 2 - New York,STEC,90,74.5
+2023,3,9,Region 2 - New York,STEC,70,59.5
+2023,4,10,Region 2 - New York,STEC,42,49.5
+2023,4,11,Region 2 - New York,STEC,47,51.5
+2023,4,12,Region 2 - New York,STEC,46,33
+2024,1,1,Region 2 - New York,STEC,55,42
+2024,1,2,Region 2 - New York,STEC,17,38.5
+2024,1,3,Region 2 - New York,STEC,0,47.5
+2023,3,8,Region 2 - New York,Salmonella,521,456
+2023,3,9,Region 2 - New York,Salmonella,402,508.5
+2023,4,10,Region 2 - New York,Salmonella,271,302
+2023,4,11,Region 2 - New York,Salmonella,246,194.5
+2023,4,12,Region 2 - New York,Salmonella,202,178.5
+2024,1,1,Region 2 - New York,Salmonella,220,171
+2024,1,2,Region 2 - New York,Salmonella,100,149.5
+2024,1,3,Region 2 - New York,Salmonella,0,200
+2023,1,1,Region 2 - New York,Salmonella,182,143.5
+2023,1,2,Region 2 - New York,Salmonella,180,105.5
+2023,1,3,Region 2 - New York,Salmonella,217,148.5
+2023,2,4,Region 2 - New York,Salmonella,231,187
+2023,2,5,Region 2 - New York,Salmonella,311,233
+2023,2,6,Region 2 - New York,Salmonella,313,308
+2023,3,7,Region 2 - New York,Salmonella,441,406
+2023,1,1,Region 2 - New York,Shigella,34,2.5
+2023,1,2,Region 2 - New York,Shigella,49,1
+2023,1,3,Region 2 - New York,Shigella,60,1
+2023,2,4,Region 2 - New York,Shigella,50,0.5
+2023,2,5,Region 2 - New York,Shigella,50,8
+2023,2,6,Region 2 - New York,Shigella,59,2.5
+2023,3,7,Region 2 - New York,Shigella,78,2
+2023,3,8,Region 2 - New York,Shigella,132,1
+2023,3,9,Region 2 - New York,Shigella,175,5.5
+2023,4,10,Region 2 - New York,Shigella,198,15
+2023,4,11,Region 2 - New York,Shigella,224,11
+2023,4,12,Region 2 - New York,Shigella,174,13
+2024,1,1,Region 2 - New York,Shigella,187,19.5
+2024,1,2,Region 2 - New York,Shigella,60,25.5
+2024,1,3,Region 2 - New York,Shigella,0,31
+2023,1,1,Region 2 - New York,Vibrio,0,0
+2023,1,2,Region 2 - New York,Vibrio,1,0
+2023,1,3,Region 2 - New York,Vibrio,2,0
+2023,2,4,Region 2 - New York,Vibrio,0,0
+2023,2,5,Region 2 - New York,Vibrio,4,0
+2023,2,6,Region 2 - New York,Vibrio,8,3.5
+2023,3,7,Region 2 - New York,Vibrio,26,10
+2023,3,8,Region 2 - New York,Vibrio,10,11.5
+2023,3,9,Region 2 - New York,Vibrio,4,7
+2023,4,10,Region 2 - New York,Vibrio,9,2
+2023,4,11,Region 2 - New York,Vibrio,2,0.5
+2023,4,12,Region 2 - New York,Vibrio,2,1.5
+2024,1,1,Region 2 - New York,Vibrio,0,0
+2024,1,2,Region 2 - New York,Vibrio,0,1
+2024,1,3,Region 2 - New York,Vibrio,0,2
+2023,1,1,Region 3 - Philadelphia,Campylobacter,42,15
+2023,1,2,Region 3 - Philadelphia,Campylobacter,25,9
+2023,1,3,Region 3 - Philadelphia,Campylobacter,23,16.5
+2023,2,4,Region 3 - Philadelphia,Campylobacter,28,22
+2023,2,5,Region 3 - Philadelphia,Campylobacter,55,27
+2023,2,6,Region 3 - Philadelphia,Campylobacter,63,30.5
+2023,3,7,Region 3 - Philadelphia,Campylobacter,36,44
+2023,3,8,Region 3 - Philadelphia,Campylobacter,45,57.5
+2023,3,9,Region 3 - Philadelphia,Campylobacter,41,31.5
+2023,4,10,Region 3 - Philadelphia,Campylobacter,31,30
+2023,4,11,Region 3 - Philadelphia,Campylobacter,43,18
+2023,4,12,Region 3 - Philadelphia,Campylobacter,23,25.5
+2024,1,1,Region 3 - Philadelphia,Campylobacter,32,27.5
+2024,1,2,Region 3 - Philadelphia,Campylobacter,18,17.5
+2024,1,3,Region 3 - Philadelphia,Campylobacter,0,19
+2023,1,1,Region 3 - Philadelphia,STEC,27,12
+2023,1,2,Region 3 - Philadelphia,STEC,29,16
+2023,1,3,Region 3 - Philadelphia,STEC,31,30
+2023,2,4,Region 3 - Philadelphia,STEC,32,28
+2023,2,5,Region 3 - Philadelphia,STEC,43,38.5
+2023,2,6,Region 3 - Philadelphia,STEC,55,51.5
+2023,3,7,Region 3 - Philadelphia,STEC,74,72
+2023,3,8,Region 3 - Philadelphia,STEC,61,57
+2023,3,9,Region 3 - Philadelphia,STEC,41,44.5
+2023,4,10,Region 3 - Philadelphia,STEC,32,37
+2023,4,11,Region 3 - Philadelphia,STEC,26,21
+2023,4,12,Region 3 - Philadelphia,STEC,26,22.5
+2024,1,1,Region 3 - Philadelphia,STEC,19,18.5
+2024,1,2,Region 3 - Philadelphia,STEC,18,22.5
+2024,1,3,Region 3 - Philadelphia,STEC,0,34
+2023,1,1,Region 3 - Philadelphia,Salmonella,191,150
+2023,1,2,Region 3 - Philadelphia,Salmonella,186,113
+2023,1,3,Region 3 - Philadelphia,Salmonella,215,171
+2023,2,4,Region 3 - Philadelphia,Salmonella,277,174.5
+2023,2,5,Region 3 - Philadelphia,Salmonella,359,283
+2023,2,6,Region 3 - Philadelphia,Salmonella,341,332
+2023,3,7,Region 3 - Philadelphia,Salmonella,514,423.5
+2023,3,8,Region 3 - Philadelphia,Salmonella,517,471
+2023,3,9,Region 3 - Philadelphia,Salmonella,389,424
+2023,4,10,Region 3 - Philadelphia,Salmonella,285,317
+2023,4,11,Region 3 - Philadelphia,Salmonella,213,228.5
+2023,4,12,Region 3 - Philadelphia,Salmonella,215,179
+2024,1,1,Region 3 - Philadelphia,Salmonella,229,178
+2024,1,2,Region 3 - Philadelphia,Salmonella,129,157.5
+2024,1,3,Region 3 - Philadelphia,Salmonella,1,197.5
+2023,1,1,Region 3 - Philadelphia,Shigella,17,8
+2023,1,2,Region 3 - Philadelphia,Shigella,17,3.5
+2023,1,3,Region 3 - Philadelphia,Shigella,27,9
+2023,2,4,Region 3 - Philadelphia,Shigella,22,11
+2023,2,5,Region 3 - Philadelphia,Shigella,25,13
+2023,2,6,Region 3 - Philadelphia,Shigella,20,15.5
+2023,3,7,Region 3 - Philadelphia,Shigella,29,22
+2023,3,8,Region 3 - Philadelphia,Shigella,22,16.5
+2023,3,9,Region 3 - Philadelphia,Shigella,26,17
+2023,4,10,Region 3 - Philadelphia,Shigella,28,15.5
+2023,4,11,Region 3 - Philadelphia,Shigella,22,14
+2023,4,12,Region 3 - Philadelphia,Shigella,14,19
+2024,1,1,Region 3 - Philadelphia,Shigella,17,13.5
+2024,1,2,Region 3 - Philadelphia,Shigella,6,11.5
+2024,1,3,Region 3 - Philadelphia,Shigella,0,20.5
+2023,1,1,Region 3 - Philadelphia,Vibrio,0,0
+2023,1,2,Region 3 - Philadelphia,Vibrio,0,0
+2023,1,3,Region 3 - Philadelphia,Vibrio,0,0
+2023,2,4,Region 3 - Philadelphia,Vibrio,1,0.5
+2023,2,5,Region 3 - Philadelphia,Vibrio,2,5.5
+2023,2,6,Region 3 - Philadelphia,Vibrio,5,18.5
+2023,3,7,Region 3 - Philadelphia,Vibrio,24,19.5
+2023,3,8,Region 3 - Philadelphia,Vibrio,19,15
+2023,3,9,Region 3 - Philadelphia,Vibrio,5,9
+2023,4,10,Region 3 - Philadelphia,Vibrio,5,4.5
+2023,4,11,Region 3 - Philadelphia,Vibrio,0,1.5
+2023,4,12,Region 3 - Philadelphia,Vibrio,1,1.5
+2024,1,1,Region 3 - Philadelphia,Vibrio,0,0
+2024,1,2,Region 3 - Philadelphia,Vibrio,1,0
+2024,1,3,Region 3 - Philadelphia,Vibrio,0,0
+2023,1,1,Region 4 - Atlanta,Campylobacter,64,33.5
+2023,1,2,Region 4 - Atlanta,Campylobacter,73,34
+2023,1,3,Region 4 - Atlanta,Campylobacter,79,50
+2023,2,4,Region 4 - Atlanta,Campylobacter,82,54.5
+2023,2,5,Region 4 - Atlanta,Campylobacter,116,73.5
+2023,2,6,Region 4 - Atlanta,Campylobacter,120,92
+2023,3,7,Region 4 - Atlanta,Campylobacter,170,91
+2023,3,8,Region 4 - Atlanta,Campylobacter,131,74.5
+2023,3,9,Region 4 - Atlanta,Campylobacter,82,55
+2023,4,10,Region 4 - Atlanta,Campylobacter,87,63
+2023,4,11,Region 4 - Atlanta,Campylobacter,75,54
+2023,4,12,Region 4 - Atlanta,Campylobacter,63,46.5
+2024,1,1,Region 4 - Atlanta,Campylobacter,60,49.5
+2024,1,2,Region 4 - Atlanta,Campylobacter,50,57
+2024,1,3,Region 4 - Atlanta,Campylobacter,0,72.5
+2023,1,1,Region 4 - Atlanta,STEC,40,35.5
+2023,1,2,Region 4 - Atlanta,STEC,44,26
+2023,1,3,Region 4 - Atlanta,STEC,57,39
+2023,2,4,Region 4 - Atlanta,STEC,40,49.5
+2023,2,5,Region 4 - Atlanta,STEC,50,43.5
+2023,2,6,Region 4 - Atlanta,STEC,71,71
+2023,3,7,Region 4 - Atlanta,STEC,100,85
+2023,3,8,Region 4 - Atlanta,STEC,86,83.5
+2023,3,9,Region 4 - Atlanta,STEC,68,50.5
+2023,4,10,Region 4 - Atlanta,STEC,79,43.5
+2023,4,11,Region 4 - Atlanta,STEC,43,37
+2023,4,12,Region 4 - Atlanta,STEC,29,38
+2024,1,1,Region 4 - Atlanta,STEC,43,43.5
+2024,1,2,Region 4 - Atlanta,STEC,18,33
+2024,1,3,Region 4 - Atlanta,STEC,1,52
+2023,1,1,Region 4 - Atlanta,Salmonella,614,446.5
+2023,1,2,Region 4 - Atlanta,Salmonella,434,372.5
+2023,1,3,Region 4 - Atlanta,Salmonella,584,508
+2023,2,4,Region 4 - Atlanta,Salmonella,725,650.5
+2023,2,5,Region 4 - Atlanta,Salmonella,918,875
+2023,2,6,Region 4 - Atlanta,Salmonella,1223,1327.5
+2023,3,7,Region 4 - Atlanta,Salmonella,1528,1607.5
+2023,3,8,Region 4 - Atlanta,Salmonella,1640,1593.5
+2023,3,9,Region 4 - Atlanta,Salmonella,1619,1712
+2023,4,10,Region 4 - Atlanta,Salmonella,1427,1428.5
+2023,4,11,Region 4 - Atlanta,Salmonella,968,955
+2023,4,12,Region 4 - Atlanta,Salmonella,800,709
+2024,1,1,Region 4 - Atlanta,Salmonella,624,562
+2024,1,2,Region 4 - Atlanta,Salmonella,314,415.5
+2024,1,3,Region 4 - Atlanta,Salmonella,0,578.5
+2023,1,1,Region 4 - Atlanta,Shigella,8,8.5
+2023,1,2,Region 4 - Atlanta,Shigella,20,8
+2023,1,3,Region 4 - Atlanta,Shigella,30,8
+2023,2,4,Region 4 - Atlanta,Shigella,26,13
+2023,2,5,Region 4 - Atlanta,Shigella,20,12
+2023,2,6,Region 4 - Atlanta,Shigella,29,11
+2023,3,7,Region 4 - Atlanta,Shigella,32,10.5
+2023,3,8,Region 4 - Atlanta,Shigella,24,11.5
+2023,3,9,Region 4 - Atlanta,Shigella,39,10
+2023,4,10,Region 4 - Atlanta,Shigella,28,14.5
+2023,4,11,Region 4 - Atlanta,Shigella,26,8.5
+2023,4,12,Region 4 - Atlanta,Shigella,25,13
+2024,1,1,Region 4 - Atlanta,Shigella,27,8
+2024,1,2,Region 4 - Atlanta,Shigella,16,15.5
+2024,1,3,Region 4 - Atlanta,Shigella,0,18
+2024,1,3,Region 4 - Atlanta,Vibrio,0,9
+2023,1,1,Region 4 - Atlanta,Vibrio,3,0
+2023,1,2,Region 4 - Atlanta,Vibrio,4,1
+2023,1,3,Region 4 - Atlanta,Vibrio,9,5
+2023,2,4,Region 4 - Atlanta,Vibrio,18,0
+2023,2,5,Region 4 - Atlanta,Vibrio,16,11.5
+2023,2,6,Region 4 - Atlanta,Vibrio,25,16.5
+2023,3,7,Region 4 - Atlanta,Vibrio,56,17.5
+2023,3,8,Region 4 - Atlanta,Vibrio,27,15
+2023,3,9,Region 4 - Atlanta,Vibrio,26,11
+2023,4,10,Region 4 - Atlanta,Vibrio,15,19.5
+2023,4,11,Region 4 - Atlanta,Vibrio,10,7
+2023,4,12,Region 4 - Atlanta,Vibrio,9,1.5
+2024,1,1,Region 4 - Atlanta,Vibrio,3,2
+2024,1,2,Region 4 - Atlanta,Vibrio,6,2.5
+2023,1,1,Region 5 - Chicago,Campylobacter,54,42
+2023,1,2,Region 5 - Chicago,Campylobacter,46,36
+2023,1,3,Region 5 - Chicago,Campylobacter,61,41.5
+2023,2,4,Region 5 - Chicago,Campylobacter,61,59
+2023,2,5,Region 5 - Chicago,Campylobacter,70,62.5
+2023,2,6,Region 5 - Chicago,Campylobacter,109,119
+2023,3,7,Region 5 - Chicago,Campylobacter,117,140
+2023,3,8,Region 5 - Chicago,Campylobacter,148,136
+2023,3,9,Region 5 - Chicago,Campylobacter,119,100
+2023,4,10,Region 5 - Chicago,Campylobacter,101,81.5
+2023,4,11,Region 5 - Chicago,Campylobacter,80,53
+2023,4,12,Region 5 - Chicago,Campylobacter,52,41
+2024,1,1,Region 5 - Chicago,Campylobacter,65,48
+2024,1,2,Region 5 - Chicago,Campylobacter,45,39
+2024,1,3,Region 5 - Chicago,Campylobacter,0,55.5
+2023,1,1,Region 5 - Chicago,STEC,81,48
+2023,1,2,Region 5 - Chicago,STEC,53,43
+2023,1,3,Region 5 - Chicago,STEC,106,57.5
+2023,2,4,Region 5 - Chicago,STEC,109,86
+2023,2,5,Region 5 - Chicago,STEC,92,102.5
+2023,2,6,Region 5 - Chicago,STEC,163,140
+2023,3,7,Region 5 - Chicago,STEC,182,200
+2023,3,8,Region 5 - Chicago,STEC,228,239
+2023,3,9,Region 5 - Chicago,STEC,200,146
+2023,4,10,Region 5 - Chicago,STEC,134,109.5
+2023,4,11,Region 5 - Chicago,STEC,86,90.5
+2023,4,12,Region 5 - Chicago,STEC,55,73
+2024,1,1,Region 5 - Chicago,STEC,71,64
+2024,1,2,Region 5 - Chicago,STEC,69,53
+2024,1,3,Region 5 - Chicago,STEC,0,86
+2023,1,1,Region 5 - Chicago,Salmonella,388,286.5
+2023,1,2,Region 5 - Chicago,Salmonella,365,227.5
+2023,1,3,Region 5 - Chicago,Salmonella,369,318
+2023,2,4,Region 5 - Chicago,Salmonella,480,413.5
+2023,2,5,Region 5 - Chicago,Salmonella,649,467.5
+2023,2,6,Region 5 - Chicago,Salmonella,708,624
+2023,3,7,Region 5 - Chicago,Salmonella,876,776.5
+2023,3,8,Region 5 - Chicago,Salmonella,864,767.5
+2023,3,9,Region 5 - Chicago,Salmonella,684,729.5
+2023,4,10,Region 5 - Chicago,Salmonella,570,549
+2023,4,11,Region 5 - Chicago,Salmonella,568,392
+2023,4,12,Region 5 - Chicago,Salmonella,413,313
+2024,1,1,Region 5 - Chicago,Salmonella,415,356.5
+2024,1,2,Region 5 - Chicago,Salmonella,320,315
+2024,1,3,Region 5 - Chicago,Salmonella,9,362
+2023,1,1,Region 5 - Chicago,Shigella,39,5
+2023,1,2,Region 5 - Chicago,Shigella,29,5.5
+2023,1,3,Region 5 - Chicago,Shigella,45,6.5
+2023,2,4,Region 5 - Chicago,Shigella,37,7
+2023,2,5,Region 5 - Chicago,Shigella,26,16
+2023,2,6,Region 5 - Chicago,Shigella,39,12
+2023,3,7,Region 5 - Chicago,Shigella,48,16
+2023,3,8,Region 5 - Chicago,Shigella,50,26
+2023,3,9,Region 5 - Chicago,Shigella,44,24
+2023,4,10,Region 5 - Chicago,Shigella,62,14
+2023,4,11,Region 5 - Chicago,Shigella,71,19
+2023,4,12,Region 5 - Chicago,Shigella,63,17
+2024,1,1,Region 5 - Chicago,Shigella,67,21.5
+2024,1,2,Region 5 - Chicago,Shigella,42,18
+2024,1,3,Region 5 - Chicago,Shigella,0,25
+2023,1,1,Region 5 - Chicago,Vibrio,3,0
+2023,1,2,Region 5 - Chicago,Vibrio,2,0
+2023,1,3,Region 5 - Chicago,Vibrio,5,0
+2023,2,4,Region 5 - Chicago,Vibrio,3,0
+2023,2,5,Region 5 - Chicago,Vibrio,3,0
+2023,2,6,Region 5 - Chicago,Vibrio,7,4.5
+2023,3,7,Region 5 - Chicago,Vibrio,16,6.5
+2023,3,8,Region 5 - Chicago,Vibrio,19,17
+2023,3,9,Region 5 - Chicago,Vibrio,10,6
+2023,4,10,Region 5 - Chicago,Vibrio,5,4.5
+2023,4,11,Region 5 - Chicago,Vibrio,2,0.5
+2023,4,12,Region 5 - Chicago,Vibrio,2,1.5
+2024,1,1,Region 5 - Chicago,Vibrio,2,2.5
+2024,1,2,Region 5 - Chicago,Vibrio,6,3
+2024,1,3,Region 5 - Chicago,Vibrio,0,3
+2023,1,1,Region 6 - Dallas,Campylobacter,5,9
+2023,1,2,Region 6 - Dallas,Campylobacter,8,12.5
+2023,1,3,Region 6 - Dallas,Campylobacter,1,8.5
+2023,2,4,Region 6 - Dallas,Campylobacter,8,14.5
+2023,2,5,Region 6 - Dallas,Campylobacter,9,9
+2023,2,6,Region 6 - Dallas,Campylobacter,24,12
+2023,3,7,Region 6 - Dallas,Campylobacter,20,8
+2023,3,8,Region 6 - Dallas,Campylobacter,8,6
+2023,3,9,Region 6 - Dallas,Campylobacter,2,0
+2023,4,10,Region 6 - Dallas,Campylobacter,8,6
+2023,4,11,Region 6 - Dallas,Campylobacter,3,9
+2023,4,12,Region 6 - Dallas,Campylobacter,3,6.5
+2024,1,1,Region 6 - Dallas,Campylobacter,1,4.5
+2024,1,2,Region 6 - Dallas,Campylobacter,1,7.5
+2024,1,3,Region 6 - Dallas,Campylobacter,0,3
+2023,1,1,Region 6 - Dallas,STEC,30,34.5
+2023,1,2,Region 6 - Dallas,STEC,31,18.5
+2023,1,3,Region 6 - Dallas,STEC,30,36
+2023,2,4,Region 6 - Dallas,STEC,49,45.5
+2023,2,5,Region 6 - Dallas,STEC,53,59.5
+2023,2,6,Region 6 - Dallas,STEC,83,64.5
+2023,3,7,Region 6 - Dallas,STEC,60,55
+2023,3,8,Region 6 - Dallas,STEC,50,40.5
+2023,3,9,Region 6 - Dallas,STEC,44,49.5
+2023,4,10,Region 6 - Dallas,STEC,66,48
+2023,4,11,Region 6 - Dallas,STEC,42,40.5
+2023,4,12,Region 6 - Dallas,STEC,31,36.5
+2024,1,1,Region 6 - Dallas,STEC,27,36
+2024,1,2,Region 6 - Dallas,STEC,17,25.5
+2024,1,3,Region 6 - Dallas,STEC,0,31.5
+2023,1,1,Region 6 - Dallas,Salmonella,328,264.5
+2023,1,2,Region 6 - Dallas,Salmonella,270,187.5
+2023,1,3,Region 6 - Dallas,Salmonella,326,276.5
+2023,2,4,Region 6 - Dallas,Salmonella,398,334.5
+2023,2,5,Region 6 - Dallas,Salmonella,543,465
+2023,2,6,Region 6 - Dallas,Salmonella,684,616
+2023,3,7,Region 6 - Dallas,Salmonella,795,725
+2023,3,8,Region 6 - Dallas,Salmonella,865,851
+2023,3,9,Region 6 - Dallas,Salmonella,910,1096
+2023,4,10,Region 6 - Dallas,Salmonella,1052,835.5
+2023,4,11,Region 6 - Dallas,Salmonella,694,540
+2023,4,12,Region 6 - Dallas,Salmonella,421,412
+2024,1,1,Region 6 - Dallas,Salmonella,370,318
+2024,1,2,Region 6 - Dallas,Salmonella,263,248
+2024,1,3,Region 6 - Dallas,Salmonella,1,327.5
+2023,1,1,Region 6 - Dallas,Shigella,19,16.5
+2023,1,2,Region 6 - Dallas,Shigella,17,10
+2023,1,3,Region 6 - Dallas,Shigella,16,16.5
+2023,2,4,Region 6 - Dallas,Shigella,16,15
+2023,2,5,Region 6 - Dallas,Shigella,44,19.5
+2023,2,6,Region 6 - Dallas,Shigella,25,14.5
+2023,3,7,Region 6 - Dallas,Shigella,20,20
+2023,3,8,Region 6 - Dallas,Shigella,33,17
+2023,3,9,Region 6 - Dallas,Shigella,24,33.5
+2023,4,10,Region 6 - Dallas,Shigella,34,34
+2023,4,11,Region 6 - Dallas,Shigella,56,32.5
+2023,4,12,Region 6 - Dallas,Shigella,24,23
+2024,1,1,Region 6 - Dallas,Shigella,23,19.5
+2024,1,2,Region 6 - Dallas,Shigella,12,15.5
+2024,1,3,Region 6 - Dallas,Shigella,0,17.5
+2023,1,1,Region 6 - Dallas,Vibrio,1,0
+2023,1,2,Region 6 - Dallas,Vibrio,0,0
+2023,1,3,Region 6 - Dallas,Vibrio,8,2
+2023,2,4,Region 6 - Dallas,Vibrio,2,0
+2023,2,5,Region 6 - Dallas,Vibrio,7,7
+2023,2,6,Region 6 - Dallas,Vibrio,8,15.5
+2023,3,7,Region 6 - Dallas,Vibrio,15,14.5
+2023,3,8,Region 6 - Dallas,Vibrio,10,9.5
+2023,3,9,Region 6 - Dallas,Vibrio,7,6
+2023,4,10,Region 6 - Dallas,Vibrio,7,2.5
+2023,4,11,Region 6 - Dallas,Vibrio,4,2
+2023,4,12,Region 6 - Dallas,Vibrio,5,1
+2024,1,1,Region 6 - Dallas,Vibrio,0,1
+2024,1,2,Region 6 - Dallas,Vibrio,1,0.5
+2024,1,3,Region 6 - Dallas,Vibrio,0,5
+2023,1,1,Region 7 - Kansas City,Campylobacter,1,0
+2023,1,2,Region 7 - Kansas City,Campylobacter,0,1
+2023,1,3,Region 7 - Kansas City,Campylobacter,1,1
+2023,2,4,Region 7 - Kansas City,Campylobacter,1,1.5
+2023,2,5,Region 7 - Kansas City,Campylobacter,2,0
+2023,2,6,Region 7 - Kansas City,Campylobacter,1,1.5
+2023,3,7,Region 7 - Kansas City,Campylobacter,1,3
+2023,3,8,Region 7 - Kansas City,Campylobacter,5,1.5
+2023,3,9,Region 7 - Kansas City,Campylobacter,2,5.5
+2023,4,10,Region 7 - Kansas City,Campylobacter,1,3.5
+2023,4,11,Region 7 - Kansas City,Campylobacter,1,2
+2023,4,12,Region 7 - Kansas City,Campylobacter,1,1
+2024,1,1,Region 7 - Kansas City,Campylobacter,3,0.5
+2024,1,2,Region 7 - Kansas City,Campylobacter,0,0
+2024,1,3,Region 7 - Kansas City,Campylobacter,0,1
+2023,1,1,Region 7 - Kansas City,STEC,20,17
+2023,1,2,Region 7 - Kansas City,STEC,21,12.5
+2023,1,3,Region 7 - Kansas City,STEC,29,25.5
+2023,2,4,Region 7 - Kansas City,STEC,35,53
+2023,2,5,Region 7 - Kansas City,STEC,52,59
+2023,2,6,Region 7 - Kansas City,STEC,75,99
+2023,3,7,Region 7 - Kansas City,STEC,109,104
+2023,3,8,Region 7 - Kansas City,STEC,78,79
+2023,3,9,Region 7 - Kansas City,STEC,65,64.5
+2023,4,10,Region 7 - Kansas City,STEC,46,50.5
+2023,4,11,Region 7 - Kansas City,STEC,32,38.5
+2023,4,12,Region 7 - Kansas City,STEC,25,18
+2024,1,1,Region 7 - Kansas City,STEC,27,19.5
+2024,1,2,Region 7 - Kansas City,STEC,15,18.5
+2024,1,3,Region 7 - Kansas City,STEC,0,26
+2023,1,1,Region 7 - Kansas City,Salmonella,118,91.5
+2023,1,2,Region 7 - Kansas City,Salmonella,97,74
+2023,1,3,Region 7 - Kansas City,Salmonella,156,108.5
+2023,2,4,Region 7 - Kansas City,Salmonella,138,133.5
+2023,2,5,Region 7 - Kansas City,Salmonella,238,164
+2023,2,6,Region 7 - Kansas City,Salmonella,265,213
+2023,3,7,Region 7 - Kansas City,Salmonella,313,278.5
+2023,3,8,Region 7 - Kansas City,Salmonella,298,274
+2023,3,9,Region 7 - Kansas City,Salmonella,280,281
+2023,4,10,Region 7 - Kansas City,Salmonella,228,238
+2023,4,11,Region 7 - Kansas City,Salmonella,166,138.5
+2023,4,12,Region 7 - Kansas City,Salmonella,114,139
+2024,1,1,Region 7 - Kansas City,Salmonella,118,109
+2024,1,2,Region 7 - Kansas City,Salmonella,109,94.5
+2024,1,3,Region 7 - Kansas City,Salmonella,0,131.5
+2023,1,1,Region 7 - Kansas City,Shigella,10,4.5
+2023,1,2,Region 7 - Kansas City,Shigella,10,6
+2023,1,3,Region 7 - Kansas City,Shigella,6,5
+2023,2,4,Region 7 - Kansas City,Shigella,7,3
+2023,2,5,Region 7 - Kansas City,Shigella,8,4.5
+2023,2,6,Region 7 - Kansas City,Shigella,10,6.5
+2023,3,7,Region 7 - Kansas City,Shigella,6,5
+2023,3,8,Region 7 - Kansas City,Shigella,8,12
+2023,3,9,Region 7 - Kansas City,Shigella,13,3.5
+2023,4,10,Region 7 - Kansas City,Shigella,27,6
+2023,4,11,Region 7 - Kansas City,Shigella,19,5.5
+2023,4,12,Region 7 - Kansas City,Shigella,6,6
+2024,1,1,Region 7 - Kansas City,Shigella,13,7
+2024,1,2,Region 7 - Kansas City,Shigella,14,10
+2024,1,3,Region 7 - Kansas City,Shigella,0,5
+2023,1,1,Region 7 - Kansas City,Vibrio,1,0
+2023,1,2,Region 7 - Kansas City,Vibrio,1,0
+2023,1,3,Region 7 - Kansas City,Vibrio,0,0
+2023,2,4,Region 7 - Kansas City,Vibrio,2,0
+2023,2,5,Region 7 - Kansas City,Vibrio,1,1
+2023,2,6,Region 7 - Kansas City,Vibrio,3,2.5
+2023,3,7,Region 7 - Kansas City,Vibrio,4,3.5
+2023,3,8,Region 7 - Kansas City,Vibrio,5,2
+2023,3,9,Region 7 - Kansas City,Vibrio,0,1
+2023,4,10,Region 7 - Kansas City,Vibrio,0,0.5
+2023,4,11,Region 7 - Kansas City,Vibrio,1,2.5
+2023,4,12,Region 7 - Kansas City,Vibrio,1,0
+2024,1,1,Region 7 - Kansas City,Vibrio,1,0.5
+2024,1,2,Region 7 - Kansas City,Vibrio,0,1
+2024,1,3,Region 7 - Kansas City,Vibrio,0,0
+2023,1,1,Region 8 - Denver,Campylobacter,32,19.5
+2023,1,2,Region 8 - Denver,Campylobacter,26,21.5
+2023,1,3,Region 8 - Denver,Campylobacter,45,27.5
+2023,2,4,Region 8 - Denver,Campylobacter,37,31.5
+2023,2,5,Region 8 - Denver,Campylobacter,46,38.5
+2023,2,6,Region 8 - Denver,Campylobacter,75,54
+2023,3,7,Region 8 - Denver,Campylobacter,83,60.5
+2023,3,8,Region 8 - Denver,Campylobacter,87,59
+2023,3,9,Region 8 - Denver,Campylobacter,88,53
+2023,4,10,Region 8 - Denver,Campylobacter,71,50
+2023,4,11,Region 8 - Denver,Campylobacter,44,32.5
+2023,4,12,Region 8 - Denver,Campylobacter,29,25
+2024,1,1,Region 8 - Denver,Campylobacter,25,25
+2024,1,2,Region 8 - Denver,Campylobacter,28,24.5
+2024,1,3,Region 8 - Denver,Campylobacter,0,39
+2023,1,1,Region 8 - Denver,STEC,25,14
+2023,1,2,Region 8 - Denver,STEC,23,17.5
+2023,1,3,Region 8 - Denver,STEC,30,26
+2023,2,4,Region 8 - Denver,STEC,36,29.5
+2023,2,5,Region 8 - Denver,STEC,48,38
+2023,2,6,Region 8 - Denver,STEC,90,67
+2023,3,7,Region 8 - Denver,STEC,88,89.5
+2023,3,8,Region 8 - Denver,STEC,86,88.5
+2023,3,9,Region 8 - Denver,STEC,50,53
+2023,4,10,Region 8 - Denver,STEC,37,53
+2023,4,11,Region 8 - Denver,STEC,41,33
+2023,4,12,Region 8 - Denver,STEC,38,23.5
+2024,1,1,Region 8 - Denver,STEC,16,20
+2024,1,2,Region 8 - Denver,STEC,21,23.5
+2024,1,3,Region 8 - Denver,STEC,0,30
+2023,1,1,Region 8 - Denver,Salmonella,97,81
+2023,1,2,Region 8 - Denver,Salmonella,92,55
+2023,1,3,Region 8 - Denver,Salmonella,117,80.5
+2023,2,4,Region 8 - Denver,Salmonella,144,109
+2023,2,5,Region 8 - Denver,Salmonella,134,130
+2023,2,6,Region 8 - Denver,Salmonella,147,141.5
+2023,3,7,Region 8 - Denver,Salmonella,201,200
+2023,3,8,Region 8 - Denver,Salmonella,236,210.5
+2023,3,9,Region 8 - Denver,Salmonella,159,166.5
+2023,4,10,Region 8 - Denver,Salmonella,154,170
+2023,4,11,Region 8 - Denver,Salmonella,165,122
+2023,4,12,Region 8 - Denver,Salmonella,120,106
+2024,1,1,Region 8 - Denver,Salmonella,125,102
+2024,1,2,Region 8 - Denver,Salmonella,78,80.5
+2024,1,3,Region 8 - Denver,Salmonella,1,103.5
+2023,1,1,Region 8 - Denver,Shigella,20,17.5
+2023,1,2,Region 8 - Denver,Shigella,21,11
+2023,1,3,Region 8 - Denver,Shigella,29,11.5
+2023,2,4,Region 8 - Denver,Shigella,22,11.5
+2023,2,5,Region 8 - Denver,Shigella,23,8.5
+2023,2,6,Region 8 - Denver,Shigella,18,10
+2023,3,7,Region 8 - Denver,Shigella,20,16
+2023,3,8,Region 8 - Denver,Shigella,37,23.5
+2023,3,9,Region 8 - Denver,Shigella,38,16.5
+2023,4,10,Region 8 - Denver,Shigella,28,25
+2023,4,11,Region 8 - Denver,Shigella,22,18.5
+2023,4,12,Region 8 - Denver,Shigella,29,13
+2024,1,1,Region 8 - Denver,Shigella,26,21.5
+2024,1,2,Region 8 - Denver,Shigella,19,17
+2024,1,3,Region 8 - Denver,Shigella,0,24
+2023,1,1,Region 8 - Denver,Vibrio,1,1
+2023,1,2,Region 8 - Denver,Vibrio,0,0
+2023,1,3,Region 8 - Denver,Vibrio,0,0
+2023,2,4,Region 8 - Denver,Vibrio,1,1.5
+2023,2,5,Region 8 - Denver,Vibrio,0,0
+2023,2,6,Region 8 - Denver,Vibrio,5,3
+2023,3,7,Region 8 - Denver,Vibrio,14,12.5
+2023,3,8,Region 8 - Denver,Vibrio,4,5
+2023,3,9,Region 8 - Denver,Vibrio,9,2
+2023,4,10,Region 8 - Denver,Vibrio,0,2
+2023,4,11,Region 8 - Denver,Vibrio,3,0.5
+2023,4,12,Region 8 - Denver,Vibrio,1,1
+2024,1,1,Region 8 - Denver,Vibrio,3,1
+2024,1,2,Region 8 - Denver,Vibrio,0,0.5
+2024,1,3,Region 8 - Denver,Vibrio,0,0
+2023,1,1,Region 9 - San Francisco,Campylobacter,12,9
+2023,1,2,Region 9 - San Francisco,Campylobacter,15,7.5
+2023,1,3,Region 9 - San Francisco,Campylobacter,12,10
+2023,2,4,Region 9 - San Francisco,Campylobacter,13,8.5
+2023,2,5,Region 9 - San Francisco,Campylobacter,14,12.5
+2023,2,6,Region 9 - San Francisco,Campylobacter,19,18
+2023,3,7,Region 9 - San Francisco,Campylobacter,33,12.5
+2023,3,8,Region 9 - San Francisco,Campylobacter,17,17
+2023,3,9,Region 9 - San Francisco,Campylobacter,21,11
+2023,4,10,Region 9 - San Francisco,Campylobacter,12,12.5
+2023,4,11,Region 9 - San Francisco,Campylobacter,13,3.5
+2023,4,12,Region 9 - San Francisco,Campylobacter,4,8.5
+2024,1,1,Region 9 - San Francisco,Campylobacter,6,10.5
+2024,1,2,Region 9 - San Francisco,Campylobacter,8,11
+2024,1,3,Region 9 - San Francisco,Campylobacter,0,11.5
+2023,1,1,Region 9 - San Francisco,STEC,75,47.5
+2023,1,2,Region 9 - San Francisco,STEC,43,54.5
+2023,1,3,Region 9 - San Francisco,STEC,74,56
+2023,2,4,Region 9 - San Francisco,STEC,68,90.5
+2023,2,5,Region 9 - San Francisco,STEC,93,103
+2023,2,6,Region 9 - San Francisco,STEC,75,151
+2023,3,7,Region 9 - San Francisco,STEC,104,158
+2023,3,8,Region 9 - San Francisco,STEC,84,126
+2023,3,9,Region 9 - San Francisco,STEC,68,94.5
+2023,4,10,Region 9 - San Francisco,STEC,104,90.5
+2023,4,11,Region 9 - San Francisco,STEC,66,87
+2023,4,12,Region 9 - San Francisco,STEC,74,62
+2024,1,1,Region 9 - San Francisco,STEC,69,64
+2024,1,2,Region 9 - San Francisco,STEC,27,50
+2024,1,3,Region 9 - San Francisco,STEC,0,74.5
+2023,1,1,Region 9 - San Francisco,Salmonella,393,238.5
+2023,1,2,Region 9 - San Francisco,Salmonella,346,234.5
+2023,1,3,Region 9 - San Francisco,Salmonella,389,299
+2023,2,4,Region 9 - San Francisco,Salmonella,387,355.5
+2023,2,5,Region 9 - San Francisco,Salmonella,547,445
+2023,2,6,Region 9 - San Francisco,Salmonella,652,565
+2023,3,7,Region 9 - San Francisco,Salmonella,691,631
+2023,3,8,Region 9 - San Francisco,Salmonella,1033,724
+2023,3,9,Region 9 - San Francisco,Salmonella,867,708
+2023,4,10,Region 9 - San Francisco,Salmonella,942,594
+2023,4,11,Region 9 - San Francisco,Salmonella,742,456.5
+2023,4,12,Region 9 - San Francisco,Salmonella,526,354
+2024,1,1,Region 9 - San Francisco,Salmonella,492,320.5
+2024,1,2,Region 9 - San Francisco,Salmonella,177,306.5
+2024,1,3,Region 9 - San Francisco,Salmonella,0,357
+2023,1,1,Region 9 - San Francisco,Shigella,116,94
+2023,1,2,Region 9 - San Francisco,Shigella,84,94
+2023,1,3,Region 9 - San Francisco,Shigella,125,98.5
+2023,2,4,Region 9 - San Francisco,Shigella,105,103.5
+2023,2,5,Region 9 - San Francisco,Shigella,139,96
+2023,2,6,Region 9 - San Francisco,Shigella,92,81
+2023,3,7,Region 9 - San Francisco,Shigella,114,74.5
+2023,3,8,Region 9 - San Francisco,Shigella,139,91.5
+2023,3,9,Region 9 - San Francisco,Shigella,122,99.5
+2023,4,10,Region 9 - San Francisco,Shigella,117,143
+2023,4,11,Region 9 - San Francisco,Shigella,110,135
+2023,4,12,Region 9 - San Francisco,Shigella,121,110.5
+2024,1,1,Region 9 - San Francisco,Shigella,232,127.5
+2024,1,2,Region 9 - San Francisco,Shigella,86,102
+2024,1,3,Region 9 - San Francisco,Shigella,0,125.5
+2023,1,1,Region 9 - San Francisco,Vibrio,1,2
+2023,1,2,Region 9 - San Francisco,Vibrio,1,0
+2023,1,3,Region 9 - San Francisco,Vibrio,1,0
+2023,2,4,Region 9 - San Francisco,Vibrio,0,0
+2023,2,5,Region 9 - San Francisco,Vibrio,1,2
+2023,2,6,Region 9 - San Francisco,Vibrio,6,1.5
+2023,3,7,Region 9 - San Francisco,Vibrio,9,5.5
+2023,3,8,Region 9 - San Francisco,Vibrio,7,12
+2023,3,9,Region 9 - San Francisco,Vibrio,6,6
+2023,4,10,Region 9 - San Francisco,Vibrio,1,6.5
+2023,4,11,Region 9 - San Francisco,Vibrio,0,3
+2023,4,12,Region 9 - San Francisco,Vibrio,0,2
+2024,1,1,Region 9 - San Francisco,Vibrio,3,2
+2024,1,2,Region 9 - San Francisco,Vibrio,4,1.5
+2024,1,3,Region 9 - San Francisco,Vibrio,0,1
