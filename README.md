@@ -37,6 +37,12 @@ Our study was very limited due to data availability, time, and the fact that can
 
 ## Links to Sources
 Tableau: https://public.tableau.com/app/profile/lori.bradshaw/vizzes
+
+
 Cancer Data: https://www.statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=00&areatype=county&cancer=001&race=00&sex=0&age=001&type=incd&sortVariableName=rate&sortOrder=default&output=0#results
+
+
 Pesticide Data: https://www.sciencebase.gov/catalog/item/6081a924d34e8564d68661a1
+
+
 User GUI Github: https://github.com/varunsly/Linear_Regression_GUI.git
