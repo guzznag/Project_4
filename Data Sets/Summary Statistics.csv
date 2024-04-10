@@ -1,24 +1,24 @@
 ﻿X,Y,R-Score,Slope
 Insecticide Sum,Cancer Incidence Rate Per 100k,-0.023101778,-0.000093600
-Herbicide Sum,Cancer Incidence Rate Per 100k,0.026972673,0.000006000
+Herbicide Sum,Prostate Cancer Incidence Rater Per 100k,-0.000067332,-0.026039800
+Insecticide Sum,Breast Cancer Incidence Rate Per 100k,-0.000046706,-0.027547489
+Herbicide Sum,Lung Cancer Incidence Rate Per 100k,-0.000041062,-0.025047582
+Fungicide Sum,Non-Hodgkin Lymphoma Incidence Rate Per 100k,-0.000011420,-0.027913675
+Fungicide Sum,Leukemia Incidence Rate Per 100k,-0.000011219,-0.027477696
+Herbicide Sum,Breast Cancer Incidence Rate Per 100k,-0.000002859,-0.000588002
+Herbicide Sum,Non-Hodgkin Lymphoma Incidence Rate Per 100k,0.000000382,0.016863987
+Herbicide Sum,Leukemia Incidence Rate Per 100k,0.000000450,0.019898963
+Fungicide Sum,Breast Cancer Incidence Rate Per 100k,0.000001327,0.014137966
+Insecticide Sum,Lung Cancer Incidence Rate Per 100k,0.000001702,0.018759440
+Insecticide Sum,Non-Hodgkin Lymphoma Incidence Rate Per 100k,0.000002287,0.001949900
+Insecticide Sum,Prostate Cancer Incidence Rater Per 100k,0.000002357,0.016465052
+Fungicide Sum,Prostate Cancer Incidence Rater Per 100k,0.000002612,0.000352372
+Insecticide Sum,Leukemia Incidence Rate Per 100k,0.000008276,0.007068617
+Fungicide Sum,Lung Cancer Incidence Rate Per 100k,0.000015910,0.003384828
 Fungicide Sum,Cancer Incidence Rate Per 100k,0.010150313,0.000117900
 Total Pesticide Sum,Breast Cancer Incidence Rate Per 100k,0.012067440,0.000001100
-Total Pesticide Sum,Leukemia Incidence Rate Per 100k,0.017729422,0.000000400
-Total Pesticide Sum,Lung Cancer Incidence Rate Per 100k,0.016698925,0.000001500
-Total Pesticide Sum,Non-Hodgkin Lymphoma Incidence Rate Per 100k,0.014705388,0.000000300
 Total Pesticide Sum,Prostate Cancer Inciidence Rater Per 100k,0.014393163,0.000002000
-Insecticide Sum,Breast Cancer Incidence Rate Per 100k,-0.000046706,-0.027547489
-Herbicide Sum,Breast Cancer Incidence Rate Per 100k,-0.000002859,-0.000588002
-Fungicide Sum,Breast Cancer Incidence Rate Per 100k,0.000001327,0.014137966
-Insecticide Sum,Leukemia Incidence Rate Per 100k,0.000008276,0.007068617
-Herbicide Sum,Leukemia Incidence Rate Per 100k,0.000000450,0.019898963
-Fungicide Sum,Leukemia Incidence Rate Per 100k,-0.000011219,-0.027477696
-Insecticide Sum,Lung Cancer Incidence Rate Per 100k,0.000001702,0.018759440
-Herbicide Sum,Lung Cancer Incidence Rate Per 100k,-0.000041062,-0.025047582
-Fungicide Sum,Lung Cancer Incidence Rate Per 100k,0.000015910,0.003384828
-Insecticide Sum,Non-Hodgkin Lymphoma Incidence Rate Per 100k,0.000002287,0.001949900
-Herbicide Sum,Non-Hodgkin Lymphoma Incidence Rate Per 100k,0.000000382,0.016863987
-Fungicide Sum,Non-Hodgkin Lymphoma Incidence Rate Per 100k,-0.000011420,-0.027913675
-Insecticide Sum,Prostate Cancer Incidence Rater Per 100k,0.000002357,0.016465052
-Herbicide Sum,Prostate Cancer Incidence Rater Per 100k,-0.000067332,-0.026039800
-Fungicide Sum,Prostate Cancer Incidence Rater Per 100k,0.000002612,0.000352372
+Total Pesticide Sum,Non-Hodgkin Lymphoma Incidence Rate Per 100k,0.014705388,0.000000300
+Total Pesticide Sum,Lung Cancer Incidence Rate Per 100k,0.016698925,0.000001500
+Total Pesticide Sum,Leukemia Incidence Rate Per 100k,0.017729422,0.000000400
+Herbicide Sum,Cancer Incidence Rate Per 100k,0.026972673,0.000006000
