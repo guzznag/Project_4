@@ -1,1 +1,9 @@
+# .DS_Store
 .DS_Store
+
+# Jupyter Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# API keys
+config.py
