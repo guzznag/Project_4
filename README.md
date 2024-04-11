@@ -1,4 +1,6 @@
 # Pesticide Use on Cancer Rates
+Note: Exploratory data on other branches was conducted, but ultimately left out in final pushes.
+
 ## Background Information
 We stop by our local grocery stores once a week, or every other day even to fill up on our household food necessities. However, how frequently do we consider where it really comes from and how the food we have in our homes affects those living around where they’re produced? Our goal is to evaluate if the effects of agricultural food production correlate to health conditions of nearby residents of these areas, specifically incidences of cancer.
 
